@@ -32,7 +32,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-phone",
+  "mcpName": "io.github.itsryanarmani/agentic-phone",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
