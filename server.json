@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/agentic-phone",
+  "name": "io.github.itsryanarmani/agentic-phone",
   "description": "Place AI voice calls across vendors from CLI, SDK, or MCP.",
   "version": "0.3.0",
   "repository": {
